@@ -1,2 +1,2 @@
 # dress-shop-
-using HTML,CSS&amp;JAVASCRIPT
+using HTML,CSS & JAVASCRIPT
